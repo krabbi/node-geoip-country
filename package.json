@@ -1,6 +1,6 @@
 {
   "name": "geoip-lite-country",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Stripped down version of geoip-lite, supporting only country lookup.",
   "keywords": [
     "geo",

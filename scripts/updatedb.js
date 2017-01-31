@@ -8,7 +8,7 @@ if(!process.env.npm_package_config_update){
 
 var cp = require('child_process');
 var fs = require('fs');
-var http = require('http');
+var http = require('https');
 var path = require('path');
 var url = require('url');
 var zlib = require('zlib');

@@ -29,7 +29,7 @@ var tmpPath = path.join(__dirname, '..', 'tmp');
 
 var databases = [{
 type: 'country',
-          url: 'https://geolite.maxmind.com/download/geoip/database/GeoIPCountryCSV.zip',
+          url: 'https://files-cdn.liferay.com/mirrors/geolite.maxmind.com/download/geoip/database/GeoIPCountryCSV.zip',
           src: 'GeoIPCountryWhois.csv',
           dest: 'geoip-country.dat'
 }];
